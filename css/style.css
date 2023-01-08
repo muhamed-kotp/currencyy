@@ -1,0 +1,90 @@
+.container{
+    margin-top: 30px;
+    box-shadow: -6px 6px 20px 0px #00000057;
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: #ed143d4a;
+}
+.title{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-family: 'Rubik Gemstones', cursive;
+    font-style: italic;
+}
+.selectCont{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.inputCont{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+
+.from-cont{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    
+}
+.fo-sel1{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+}
+.fo-sel2{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+}
+.from{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Rowdies', cursive;
+font-family: 'Rubik Gemstones', cursive;
+}
+.btn{
+    font-size: 25px;
+    font-weight: 700;
+}
+.btn-cont{
+    width: 100%;
+    margin-top: 50px !important;
+    display: flex;
+    justify-content: center;
+}
+.enter{
+    text-align: start;
+    font-size: 30px;
+    font-weight: 700;
+    font-weight: 700;
+    font-family: 'Rowdies', cursive;
+font-family: 'Rubik Gemstones', cursive;
+}
+.amount-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+}
+.amount-input{
+
+    border-radius: 10px;
+    width: 100%;
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+}
+.result-input{
+
+    border-radius: 10px;
+    width: 100%;
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+}
